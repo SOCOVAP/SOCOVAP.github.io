@@ -26,9 +26,18 @@ La **SOCOVAP** intervient auprès des organisations pour transformer chaque comp
 {% include feature_row %}
 
 <style>
-  footer .page__footer-copyright + p, 
-  footer a[href*="jekyllrb.com"], 
-  footer a[href*="mademistakes.com"] {
-    display: none !important;
+  /* On cache tout le paragraphe de crédits */
+  .page__footer-copyright {
+    visibility: hidden;
+  }
+  
+  /* On fait réapparaître uniquement ton copyright SOCOVAP */
+  .page__footer-copyright::first-line {
+    visibility: visible;
+  }
+
+  /* On supprime l'espace vide que le texte caché pourrait laisser */
+  footer.page__footer p:last-child {
+    margin-top: -1.5rem;
   }
 </style>
