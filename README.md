@@ -1,9 +1,13 @@
-# Agence-OPPERA (Observatoire de Prévention sur les Prédateurs Routiers et Autoroutiers)
+# O.P.P.E.R.R.A.
+### Observatoire de Prévention des Prédateurs Endémiques du Réseau Routier et Autoroutier
 
-## Présentation Institutionnelle
-L'Agence-OPPERA est chargée de l'étude et du suivi des populations de prédateurs fixés et mobiles évoluant sur le réseau routier français.
+Nous sommes un organisme chargé de l'inventaire, de l'étude comportementale et de la surveillance des espèces prédatrices des infrastructures de transport. 
 
-Ces espèces, dont la morphologie est indissociable des infrastructures autoroutières, constituent une faune spécifique dont le métabolisme dépend exclusivement de la captation des flux circulants. L'OPPERA analyse leur comportement de chasse, leur répartition territoriale et l'impact de leur présence sur les usagers du réseau.
+Elles constituent une faune spécifique dont le métabolisme dépend exclusivement des flux circulants. L'OPPERRA analyse leur comportement de chasse, leur répartition territoriale et l'impact de leur présence sur les usagers du réseau.
+
+Notre mission est de documenter ces spécimens afin d'informer les usagers des risques d'interactions sur l'ensemble du territoire.
+
+---
 
 ## Missions principales
 * **Inventaire des populations :** Suivi démographique des espèces (fixes, tourelles, chantiers).
@@ -21,4 +25,4 @@ Le présent dépôt centralise les données de l'Observatoire :
 Tout contact visuel avec un spécimen non répertorié ou présentant une activité inhabituelle doit être immédiatement transmis à l'Agence pour expertise.
 
 ---
-*Note : L'OPPERA agit dans le cadre de la régulation des interactions entre la faune routière et les usagers. La prudence est de mise lors de la traversée de leurs territoires.*
+*Note : L'OPPERRA agit dans le cadre de la régulation des interactions entre la faune routière et les usagers. La prudence est de mise lors de la traversée de leurs territoires.*
