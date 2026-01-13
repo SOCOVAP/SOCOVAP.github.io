@@ -7,8 +7,6 @@ header:
 excerpt: "L'Humain n'est qu'une variable. Optimisons-la."
 ---
 
-## Bienvenue au siège de la SOCOVAP
-
 La **SOCOVAP** intervient auprès des organisations pour transformer chaque composante opérationnelle en vecteur de rentabilité. 
 
 {% include feature_row %}
