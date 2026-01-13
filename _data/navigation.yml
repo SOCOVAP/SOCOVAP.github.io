@@ -1,9 +1,0 @@
-main:
-  - title: "Accueil"
-    url: /
-  - title: "Services"
-    url: /services/
-  - title: "L'Équipe"
-    url: /team/
-  - title: "Contact"
-    url: /contact/
