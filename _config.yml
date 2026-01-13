@@ -13,3 +13,4 @@ collections:
     output: true
   team:
     output: true
+    site_navigation: main
