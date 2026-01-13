@@ -25,7 +25,7 @@ La **SOCOVAP** intervient auprès des organisations pour transformer chaque comp
 
 {% include feature_row %}
 
-style>
+<style>
   /* On cible le paragraphe du bas et on cache tout ce qui suit le premier élément */
   .page__footer-copyright {
     display: block;
